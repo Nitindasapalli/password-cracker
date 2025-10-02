@@ -9,6 +9,7 @@ A beginner-friendly project demonstrating:
   `python password_strength.py "Correct Horse Battery Staple"`
 
 - Crack a hash:
-  `python hash_cracker.py --hash <hash> --alg md5 --wordlist wordlists/small_wordlist.txt`
+  `python hash_cracker.py --hash <hash> --alg md5 --wordlist wordlist.txt`
 
 **Warning:** Only test on hashes and accounts you own or have permission to test.
+
