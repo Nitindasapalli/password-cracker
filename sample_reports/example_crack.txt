@@ -1,0 +1,4 @@
+python hash_cracker.py --hash 482c811da5d5b4bc6d497ffa98491e38 --alg md5 --wordlist wordlist.txt
+Starting crack attempt...
+Trying words: 2word [00:00, 34239.22word/s]
+SUCCESS: password is: 'password123'
